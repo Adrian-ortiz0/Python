@@ -45,3 +45,6 @@ def squared(characters, size):
         row += characters[i % len(characters)]
         i += 1
     print(row)
+    
+if __name__ == "__main__":
+    squared("alma", 3)
