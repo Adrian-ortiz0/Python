@@ -1,0 +1,23 @@
+{
+    "usuarios": [
+        {
+            "1005327319": {
+                "nombre": "Jhordan",
+                "edad": 17,
+                "correo": "jhordan@gmail.com"
+            },
+            "1097495965": {
+                "nombre": "Adrian",
+                "edad": 17,
+                "correo": "adrian@gmail.com"
+            }
+        },
+        {
+            "741856": {
+                "nombre": "julian",
+                "edad": 22,
+                "correo": "fghjkl"
+            }
+        }
+    ]
+}
